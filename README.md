@@ -9,7 +9,7 @@
   <a href="https://synaptic-ai.dev"><img alt="Website" src="https://img.shields.io/badge/synaptic--ai.dev-3B82F6?style=flat-square&logo=googlechrome&logoColor=white"></a>
   <a href="https://x.com/AlexCuautli7u7"><img alt="X" src="https://img.shields.io/badge/@AlexCuautli7u7-000000?style=flat-square&logo=x&logoColor=white"></a>
   <a href="mailto:alex@synaptic-ai.dev"><img alt="Email" src="https://img.shields.io/badge/alex@synaptic--ai.dev-111827?style=flat-square&logo=maildotru&logoColor=white"></a>
-  <!-- LinkedIn: <a href="LINKEDIN_URL"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a> -->
+  <a href="https://www.linkedin.com/in/alejandro-cuautli-429697324"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
@@ -28,7 +28,7 @@ I work on both layers of an AI product: the **engineering** (backend, infrastruc
 
 | Project | What it does |
 |---|---|
-| **brand-kit-mcp** *(coming soon)* | MCP server that gives AI agents your brand identity (palette, typography, logos, guidelines) and exports it as DTCG design tokens and CSS. |
+| [**brand-kit-mcp**](https://github.com/Alejandro-Cuautli/brand-kit-mcp) | MCP server that gives AI agents your brand identity (palette, typography, logos, guidelines) and exports it as DTCG design tokens and CSS. |
 | [**Chatterbox-TTS-Server**](https://github.com/Alejandro-Cuautli/Chatterbox-TTS-Server) | Fork with Mexican-Spanish improvements: es-MX finetune selector, broadcast-ready audio finishing (-18 LUFS) and voice-activity detection. |
 
 ### Stack
