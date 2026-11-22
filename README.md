@@ -28,7 +28,7 @@ I work on both layers of an AI product: the **engineering** (backend, infrastruc
 
 | Project | What it does |
 |---|---|
-| **[brand-kit-mcp](https://github.com/Alejandro-Cuautli/brand-kit-mcp)** *(coming soon)* | MCP server that gives AI agents your brand identity (palette, typography, logos, guidelines) and exports it as DTCG design tokens and CSS. |
+| **brand-kit-mcp** *(coming soon)* | MCP server that gives AI agents your brand identity (palette, typography, logos, guidelines) and exports it as DTCG design tokens and CSS. |
 | [**Chatterbox-TTS-Server**](https://github.com/Alejandro-Cuautli/Chatterbox-TTS-Server) | Fork with Mexican-Spanish improvements: es-MX finetune selector, broadcast-ready audio finishing (-18 LUFS) and voice-activity detection. |
 
 ### Stack
