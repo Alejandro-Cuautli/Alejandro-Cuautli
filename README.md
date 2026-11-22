@@ -1,72 +1,58 @@
-<h1 align="center">Alejandro Cuautli</h1>
-
 <p align="center">
-  <b>Founder of <a href="https://synaptic-ai.dev">Synaptic AI</a> · I build production AI: multi-agent systems, MCP servers and the infrastructure that runs them.</b><br>
-  <sub>Fundador de Synaptic AI · Construyo IA en producción: sistemas multiagente, servidores MCP y la infraestructura que los opera.</sub>
+  <img src="assets/banner.svg" alt="Alejandro Cuautli — Fundador de Synaptic AI" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://synaptic-ai.dev"><img alt="Website" src="https://img.shields.io/badge/synaptic--ai.dev-3B82F6?style=flat-square&logo=googlechrome&logoColor=white"></a>
-  <a href="https://x.com/AlexCuautli7u7"><img alt="X" src="https://img.shields.io/badge/@AlexCuautli7u7-000000?style=flat-square&logo=x&logoColor=white"></a>
-  <a href="mailto:alex@synaptic-ai.dev"><img alt="Email" src="https://img.shields.io/badge/alex@synaptic--ai.dev-111827?style=flat-square&logo=maildotru&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/alejandro-cuautli-429697324"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://synaptic-ai.dev"><img alt="Sitio web" src="https://img.shields.io/badge/synaptic--ai.dev-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/alejandro-cuautli-429697324"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/AlexCuautli7u7"><img alt="X" src="https://img.shields.io/badge/@AlexCuautli7u7-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="mailto:alex@synaptic-ai.dev"><img alt="Correo" src="https://img.shields.io/badge/alex@synaptic--ai.dev-111827?style=for-the-badge&logo=maildotru&logoColor=white"></a>
 </p>
 
----
+## 👋 Hola, soy Alejandro
 
-I work on both layers of an AI product: the **engineering** (backend, infrastructure, agents, data pipelines) and the **product** (what to build, for whom, and how it makes money). Based in Mexico 🇲🇽, building for LatAm and beyond.
+Fundo y construyo **[Synaptic AI](https://synaptic-ai.dev)**: productos de inteligencia artificial que funcionan en producción, no solo en demos.
 
-### What I build
+Trabajo en las dos capas de un producto de IA: la **técnica** (backend, infraestructura, agentes y pipelines de datos) y la de **producto** (qué construir, para quién y cómo se monetiza). Desde México, para Latinoamérica y el mundo.
 
-- **Multi-agent systems:** orchestrated agents (planner, builder, reviewer, ops) with handoffs, shared memory and evidence for every run.
-- **MCP servers:** connecting tools, data and infrastructure to Claude, ChatGPT and other agents, secured with OAuth 2.1.
-- **RAG and data pipelines:** document ingestion, embeddings and retrieval on PostgreSQL + pgvector.
-- **Voice AI:** voice agents, voice-cloning TTS and an AI phone switchboard.
-- **Self-hosted infrastructure:** a fleet of Docker hosts with SSO, object storage, observability and self-hosted CI.
+## 🧠 Qué construyo
 
-### Open source
-
-| Project | What it does |
+| | |
 |---|---|
-| [**brand-kit-mcp**](https://github.com/Alejandro-Cuautli/brand-kit-mcp) | MCP server that gives AI agents your brand identity (palette, typography, logos, guidelines) and exports it as DTCG design tokens and CSS. |
-| [**Chatterbox-TTS-Server**](https://github.com/Alejandro-Cuautli/Chatterbox-TTS-Server) | Fork with Mexican-Spanish improvements: es-MX finetune selector, broadcast-ready audio finishing (-18 LUFS) and voice-activity detection. |
+| 🤖 **Sistemas multiagente** | Agentes que planean, construyen, revisan y operan, con traspasos, memoria compartida y evidencia de cada ejecución. |
+| 🔌 **Servidores MCP** | Conecto herramientas, datos e infraestructura con Claude, ChatGPT y otros agentes, con OAuth 2.1. |
+| 📚 **RAG y datos** | Ingesta de documentos, embeddings y búsqueda sobre PostgreSQL con pgvector. |
+| 🎙️ **IA de voz** | Agentes de voz, síntesis con clonación de voz y una central telefónica con IA. |
+| 🏗️ **Infraestructura propia** | Servidores con Docker, inicio de sesión único, almacenamiento de objetos, observabilidad e integración continua. |
 
-### Stack
+## 🚀 Código abierto
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-3B82F6?style=flat-square)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+| Proyecto | Qué hace |
+|---|---|
+| [**brand-kit-mcp**](https://github.com/Alejandro-Cuautli/brand-kit-mcp) | Servidor MCP que entrega a tus agentes la identidad de tu marca (paleta, tipografía, logos y reglas) y la exporta como tokens de diseño DTCG y CSS. |
+| [**Chatterbox-TTS-Server**](https://github.com/Alejandro-Cuautli/Chatterbox-TTS-Server) | Versión con mejoras para español de México: modelo ajustado es-MX, acabado de audio profesional (-18 LUFS) y detección de voz. |
 
-### Let's talk
+## 🛠️ Tecnologías
 
-I'm open to working on applied AI products, business automation and agent tooling. Reach out if you want to:
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
+  <img alt="MCP" src="https://img.shields.io/badge/MCP-3B82F6?style=for-the-badge">
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+</p>
 
-- take an AI use case to **production**, not just a demo;
-- connect your systems to agents through **MCP**;
-- design a **scalable multi-agent** architecture.
+## 🤝 Trabajemos juntos
 
-<details>
-<summary><b>🇲🇽 En español</b></summary>
+Me interesa colaborar en productos de IA aplicada, automatización para empresas y herramientas para agentes. Escríbeme si quieres:
 
-<br>
+- 🎯 Llevar un caso de uso de IA a **producción**, no solo a una demo.
+- 🔗 Conectar tus sistemas a agentes mediante **MCP**.
+- 🧩 Diseñar una arquitectura **multiagente** escalable.
 
-Trabajo en las dos capas de un producto de IA: la **técnica** (backend, infraestructura, agentes, pipelines de datos) y la de **producto** (qué construir, para quién y cómo se monetiza). Desde México, para LatAm y el mundo.
-
-**Qué construyo**
-
-- **Sistemas multiagente:** agentes orquestados (planner, builder, reviewer, ops) con handoffs, memoria compartida y evidencia de cada ejecución.
-- **Servidores MCP:** conecto herramientas, datos e infraestructura con Claude, ChatGPT y otros agentes, con OAuth 2.1.
-- **RAG y pipelines de datos:** ingesta de documentos, embeddings y búsqueda sobre PostgreSQL + pgvector.
-- **IA de voz:** agentes de voz, TTS con clonación de voz y una central telefónica con IA.
-- **Infraestructura propia:** flota de servidores Docker con SSO, almacenamiento de objetos, observabilidad y CI self-hosted.
-
-**Hablemos.** Me interesa colaborar en productos de IA aplicada, automatización para empresas y tooling para agentes: llevar un caso de uso a **producción** (no solo a demo), conectar tus sistemas a agentes por **MCP** o diseñar una arquitectura **multiagente** escalable.
-
-</details>
+<p align="center"><b>📩 <a href="mailto:alex@synaptic-ai.dev">alex@synaptic-ai.dev</a></b></p>
