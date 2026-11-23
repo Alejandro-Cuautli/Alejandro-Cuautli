@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://synaptic-ai.dev"><img alt="Sitio web" src="https://img.shields.io/badge/synaptic--ai.dev-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/alejandro-cuautli-429697324"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/alejandro-cuautli"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/AlexCuautli7u7"><img alt="X" src="https://img.shields.io/badge/@AlexCuautli7u7-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="mailto:alex@synaptic-ai.dev"><img alt="Correo" src="https://img.shields.io/badge/alex@synaptic--ai.dev-111827?style=for-the-badge&logo=maildotru&logoColor=white"></a>
 </p>
